@@ -259,7 +259,9 @@ font-weight: 500;
     }
     
 }
-   
+   @media only screen and (-webkit-min-device-pixel-ratio: 4) {
+    /* CSS */
+   }
 
 @media (min-width:481px) and (max-width:1201px) {
     .paragraph{
